@@ -1,6 +1,6 @@
 # Netflix Data Analysis
 
-This project analyzes the Netflix dataset using Python.
+This project operates EDA on the Netflix dataset using Python.
 
 Tools Used:
 - Numpy
